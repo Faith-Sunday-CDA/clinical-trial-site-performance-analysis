@@ -74,16 +74,22 @@ The dashboard focuses on:
 - Overall study-level patterns
 The purpose of the dashboard is to make site-level information easier to interpret and support operational review.
 
-# Dashboard Preview
-"Clinical trial site performance dashboard" (site-performance-dashboard.jpg)
+## Project Preview
 
-# SQL Analysis Preview
+A screenshot from the Excel analysis is shown below.
 
-"SQL clinical trial analysis" (sql-analysis.jpg)
+![Clinical trial site performance Excel analysis](excel-site-analysis.jpg)
 
-# Data Quality Review
+## Full Project Files
 
-"Clinical trial data quality analysis" (data-quality-analysis.jpg)
+The complete project materials are available in the project folder, including:
+
+- SQL queries
+- Excel analysis
+- Power BI dashboard
+- Supporting project files
+
+[View the Full Project on Google Drive](https://drive.google.com/drive/folders/1j9DA1bGKlvtSlwac9kH_AxhEZWDKF2kb)
 
 ## Key Questions Explored
 The analysis was designed around practical clinical trial operations questions, including:
